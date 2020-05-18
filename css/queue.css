@@ -1,0 +1,34 @@
+.flex-container {
+  display: flex;
+   height:660px;
+  background-color:  #f1f1f1;
+}
+
+.ref {
+  background-color: #ffffff;
+  margin: 1px;
+  height:700px;
+  width:700px;
+ padding: 1px;
+  font-size: 10px;
+}
+
+.ref p {
+font-size:50px;
+color:red;
+}
+.bom {
+  background-color: #ffffff;
+  margin: 1px;
+  margin-left: 0px;
+  height:700px;
+  width:980px;
+ padding: 20px;
+  font-size: 10px;
+
+}
+
+.bom p {
+font-size:50px;
+color:red;
+}

@@ -1,0 +1,21 @@
+.wrapper{
+  height:510px;
+  width:800px;
+  background-color:skyblue;
+  margin:auto;
+  text-align:center;
+  border: 1px solid white;
+  box-shadow: 2px 2px 3px gray;
+  }
+  h1{
+  background-color:mediumseagreen;
+  color:white;
+  border-bottom:2px solid white;
+  }
+  p{
+    font-size:5em;
+  }
+  h1,p{
+  padding:5px;
+  margin:0px;
+  }
